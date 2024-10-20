@@ -14,7 +14,7 @@
 
 - 🔭 I’m looking for remote internships. 
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning backend
 
 - 📫 How to reach me **iyashgosavi02@gmail.com**
 
